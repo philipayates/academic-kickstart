@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Phil Yates
 
 # Username (this should match the folder name)
 authors:
@@ -10,16 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor, Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: DePaul University
+  url: "https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests mostly involve statistical applications, specifically applications in environmental sciences, hydrology, sports, political science, and statistics education.
 interests:
 - Artificial Intelligence
 - Computational Linguistics
@@ -27,15 +26,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: University of South Carolina
+    year: 2006
+  - course: MSc in Biostatistics
+    institution: The University of Vermont
+    year: 1999
+  - course: BSc in Mathematical Sciences
+    institution: DePaul University
+    year: 1993
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +43,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:PYATES@depaul.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/philipayates
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/phil-yates-8815992/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/philipayates
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Philip_Yates
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-7588-7043
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
