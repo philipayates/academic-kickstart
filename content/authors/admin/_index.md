@@ -20,9 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests mostly involve statistical applications, specifically applications in environmental sciences, hydrology, sports, political science, and statistics education.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied Statistics
+- Statistical Education
 
 education:
   courses:
@@ -56,9 +55,6 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Philip_Yates
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-7588-7043
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Phil Yates is an associate professor of statistics at DePaul University in Chicago, Illinois. His research interests include statistical applications in environmental sciences, hydrology, sports, political science, and statistics education.
