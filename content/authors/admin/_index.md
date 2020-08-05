@@ -22,6 +22,7 @@ bio: My research interests mostly involve statistical applications, specifically
 interests:
 - Applied Statistics
 - Statistical Education
+- Statistical Computing
 
 education:
   courses:
@@ -52,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/philipayates
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=Flt6NZEAAAAJ
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Philip_Yates
