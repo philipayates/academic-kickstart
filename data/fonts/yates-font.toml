@@ -2,10 +2,10 @@
 name = "YatesFont"
 
 # Optional Google font URL
-google_fonts = "Cutive+Mono|Oswald:400,700|Lato:400,700"
+google_fonts = "Inconsolata|Oswald:400,700|Lato:400,700"
 
 # Font families
 heading_font = "Oswald"
 body_font = "Lato"
 nav_font = "Oswald"
-mono_font = "Cutive Mono"
+mono_font = "Inconsolata"
