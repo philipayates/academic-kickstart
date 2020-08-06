@@ -14,7 +14,7 @@ subtitle = ""
 
 
 # Order that this section will appear in.
-weight = 57
+weight = 30
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
