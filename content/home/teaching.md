@@ -41,3 +41,38 @@ _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathemat
 + MAT 442: Applied Statistics II
 + MAT 443: Applied Statistics III
 
+<h2>Saint Michael's College</h2>
+
+_Department of Mathematics_ (2010 to 2017)
+ 
++ MA 120: Elementary Statistics
++ MA 140: Biological Data & Statistics
++ MA 150: Calculus I
++ MA 160: Calculus II
++ MA 251: Probability and Statistics
++ MA 351: Applied Regression Analysis
++ MA 410: Seminar in Mathematics
++ MA 451: Applied Statistical Methods
+
+<h2>Cal Poly Pomona</h2>
+
+_[Department of Mathematics & Statistics](https://www.cpp.edu/sci/mathematics-statistics/index.shtml)_ (2007 to 2010)
+
++ MAT 114: Analytic Geometry and Calculus I
++ STA 120: Statistics with Applications
++ STA 241: Applied Probability Theory
++ STA 310: Sampling Theory and Applications
++ STA 326: Statistical Methods for Computer Scientists
++ STA 341: Applied Statistics
++ STA 432: Applied Regression Analysis
++ STA 533: Linear Statistical Methods I
++ STA 534: Linear Statistical Methods II
++ STA 565: Multivariate Statistics
+
+<h2>University of South Carolina</h2>
+
+_[Department of Statistics](https://sc.edu/study/colleges_schools/artsandsciences/statistics/index.php)_ (1999 to 2004)
+
++ STAT 110: Introduction to Descriptive Statistics
++ STAT 201: Elementary Statistics
++ STAT 516: Statistical Methods II
