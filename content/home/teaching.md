@@ -31,7 +31,7 @@ _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathemat
 + MAT 350/427: Bayesian Statistics
 + MAT 441: Applied Statistics I
 
-**Past Quarters**
+**Past Quarters: Autumn Quarter 2017 to Spring Quarter 2020**
 + HON 180: Data Analysis and Statistics
 + MAT 137: Business Statistics
 + MAT 341/448: Statistical Methods Using SAS
