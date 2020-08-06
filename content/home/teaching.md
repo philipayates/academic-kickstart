@@ -51,6 +51,6 @@ columns = "1"
 # css_class = "" 
 +++
 
-<b><<span style="color:#E4002B">DePaul University</span></b>
+<b><p style="color:#E4002B">DePaul University</p></b>
 Welcome to the personal demo of Academic. Other demos available include:
 
