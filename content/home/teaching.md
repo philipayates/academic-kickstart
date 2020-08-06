@@ -43,8 +43,9 @@ _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathemat
 
 <h2>Saint Michael's College</h2>
 
-_Department of Mathematics_ (2010 to 2017)
- 
+_Department of Mathematics_ 
+
+**Fall Semester 2010 to Spring Semester 2017**
 + MA 120: Elementary Statistics
 + MA 140: Biological Data & Statistics
 + MA 150: Calculus I
@@ -56,8 +57,9 @@ _Department of Mathematics_ (2010 to 2017)
 
 <h2>Cal Poly Pomona</h2>
 
-_[Department of Mathematics & Statistics](https://www.cpp.edu/sci/mathematics-statistics/index.shtml)_ (2007 to 2010)
+_[Department of Mathematics & Statistics](https://www.cpp.edu/sci/mathematics-statistics/index.shtml)
 
+**Fall Quarter 2007 to Spring Quarter 2010**
 + MAT 114: Analytic Geometry and Calculus I
 + STA 120: Statistics with Applications
 + STA 241: Applied Probability Theory
@@ -71,8 +73,9 @@ _[Department of Mathematics & Statistics](https://www.cpp.edu/sci/mathematics-st
 
 <h2>University of South Carolina</h2>
 
-_[Department of Statistics](https://sc.edu/study/colleges_schools/artsandsciences/statistics/index.php)_ (1999 to 2004)
+_[Department of Statistics](https://sc.edu/study/colleges_schools/artsandsciences/statistics/index.php)
 
+**Fall Semester 1999 to Spring Semester 2004**
 + STAT 110: Introduction to Descriptive Statistics
 + STAT 201: Elementary Statistics
 + STAT 516: Statistical Methods II
