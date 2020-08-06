@@ -32,12 +32,12 @@ _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathemat
 + MAT 441: Applied Statistics I
 
 **Past Quarters**
-+ HON 180: Data Analysis and Statistics - Spring 2020
-+ MAT 137: Business Statistics - Autumn 2018
-+ MAT 341/448: Statistical Methods Using SAS - Winter 2019
-+ MAT 348: Applied Statistical Methods - Winter 2018, 2020
-+ MAT 353: Probability & Statistics III - Spring 2018, 2019
-+ MAT 356/456: Applied Regression Analysis - Autumn 2017, 2019
-+ MAT 442: Applied Statistics II - Winter 2018, 2019, 2020
-+ MAT 443: Applied Statistics III - Spring 2018, 2019, 2020
++ HON 180: Data Analysis and Statistics
++ MAT 137: Business Statistics
++ MAT 341/448: Statistical Methods Using SAS
++ MAT 348: Applied Statistical Methods
++ MAT 353: Probability & Statistics III
++ MAT 356/456: Applied Regression Analysis
++ MAT 442: Applied Statistics II
++ MAT 443: Applied Statistics III
 
