@@ -1,0 +1,2 @@
+widget="blank"
+headless=true
