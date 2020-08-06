@@ -34,7 +34,7 @@ education:
     year: 1999
   - course: BSc in Mathematical Sciences
     institution: DePaul University
-    year: 1993
+    year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
