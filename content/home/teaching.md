@@ -27,14 +27,17 @@ weight = 57
 
 _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx)_
 
-+ MAT 350/427: Bayesian Statistics - Autumn 2020
-+ MAT 441: Applied Statistics I - Autumn 2017, 2018, 2019, 2020
+**Autumn Quarter 2020**
++ MAT 350/427: Bayesian Statistics
++ MAT 441: Applied Statistics I
+
+**Past Quarters**
 + HON 180: Data Analysis and Statistics - Spring 2020
-+ MAT 443: Applied Statistics III - Spring 2018, 2019, 2020
-+ MAT 348: Applied Statistical Methods - Winter 2018, 2020
-+ MAT 442: Applied Statistics II - Winter 2018, 2019, 2020
-+ MAT 356/456: Applied Regression Analysis - Autumn 2017, 2019
-+ MAT 353: Probability & Statistics III - Spring 2018, 2019
-+ MAT 341/448: Statistical Methods Using SAS - Winter 2019
 + MAT 137: Business Statistics - Autumn 2018
++ MAT 341/448: Statistical Methods Using SAS - Winter 2019
++ MAT 348: Applied Statistical Methods - Winter 2018, 2020
++ MAT 353: Probability & Statistics III - Spring 2018, 2019
++ MAT 356/456: Applied Regression Analysis - Autumn 2017, 2019
++ MAT 442: Applied Statistics II - Winter 2018, 2019, 2020
++ MAT 443: Applied Statistics III - Spring 2018, 2019, 2020
 
