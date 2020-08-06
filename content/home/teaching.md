@@ -57,7 +57,7 @@ _Department of Mathematics_
 
 <h2>Cal Poly Pomona</h2>
 
-_[Department of Mathematics & Statistics](https://www.cpp.edu/sci/mathematics-statistics/index.shtml)
+_[Department of Mathematics & Statistics](https://www.cpp.edu/sci/mathematics-statistics/index.shtml)_
 
 **Fall Quarter 2007 to Spring Quarter 2010**
 + MAT 114: Analytic Geometry and Calculus I
@@ -73,7 +73,7 @@ _[Department of Mathematics & Statistics](https://www.cpp.edu/sci/mathematics-st
 
 <h2>University of South Carolina</h2>
 
-_[Department of Statistics](https://sc.edu/study/colleges_schools/artsandsciences/statistics/index.php)
+_[Department of Statistics](https://sc.edu/study/colleges_schools/artsandsciences/statistics/index.php)_
 
 **Fall Semester 1999 to Spring Semester 2004**
 + STAT 110: Introduction to Descriptive Statistics
