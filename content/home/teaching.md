@@ -29,4 +29,6 @@ title = "Teaching"
   # Text color (true=light or false=dark).
   # text_color_light = true
 
+**DePaul University**
+  - MAT 441: Applied Statistics I
 +++
