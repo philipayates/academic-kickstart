@@ -1,3 +1,4 @@
++++
 widget="blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -27,3 +28,5 @@ title = "Teaching"
   
   # Text color (true=light or false=dark).
   # text_color_light = true
+
++++
