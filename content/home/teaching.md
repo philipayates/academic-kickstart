@@ -51,6 +51,6 @@ columns = "1"
 # css_class = "" 
 +++
 
-<b><p style="color:#E4002B">DePaul University</p></b>
-Welcome to the personal demo of Academic. Other demos available include:
-
+<b>DePaul University</b>
+  - HON 180: Data Analysis and Statistics (Spring 2020)
+  - MAT 137: Business Statistics (Autumn 2018)
