@@ -1,7 +1,7 @@
 +++
 title = "Keep the Ball! The Value of Possession in Soccer"
-date = "2011-09-24T03:30:00"
-dateend="2011-09-24T05:00:00"
+date = "2011-09-24T15:30:00"
+dateend="2011-09-24T17:00:00"
 authors = ["Philip A. Yates, poster presentation"]
 location = "Harvard University"
 event="New England Symposium on Statistics in Sports"
