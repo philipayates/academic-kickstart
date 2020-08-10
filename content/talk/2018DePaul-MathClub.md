@@ -1,5 +1,5 @@
 +++
-title = "Where Have You Gone, Joe DiMaggio?: Probability and Hitting Streaks"
+title = "Where Have You Gone, Joe DiMaggio? Probability and Hitting Streaks"
 date = "2018-02-16T12:00:00"
 dateend="2018-02-16T13:00:00"
 authors = ["Phil Yates"]
