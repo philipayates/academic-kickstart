@@ -2,7 +2,7 @@
 title = "Keep the Ball! The Value of Possession in Soccer"
 date = "2011-09-24T15:30:00"
 dateend="2011-09-24T17:00:00"
-authors = ["Philip A. Yates, poster presentation"]
+authors = ["Philip A. Yates"]
 location = "Harvard University"
 event="New England Symposium on Statistics in Sports"
 event_url="http://nessis.org/nessis11.html"
@@ -19,7 +19,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://github.com/philipayates/academic-kickstart/blob/master/static/files/posters/NESSIS2011.pdf"
 url_source = ""
 math = true
 highlight = true
