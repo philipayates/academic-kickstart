@@ -1,6 +1,5 @@
 +++
-title = "Oh, Frabjuous Day! A Panel Celebrating the 150th Anniversary of Lewis Carroll’s
-Alice’s Adventures in Wonderland"
+title = "Oh, Frabjuous Day! A Panel Celebrating the 150th Anniversary of Lewis Carroll’s Alice’s Adventures in Wonderland"
 date = "2015-10-11T12:00:00"
 dateend="2015-10-11T13:00:00"
 authors = ["Phil Yates, panelist"]
