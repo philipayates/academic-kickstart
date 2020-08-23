@@ -97,7 +97,7 @@ address = {street = "Schmitt Academic Center, Room 507, 2320 N. Kenmore Ave.", c
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "", longitude = ""}
+coordinates = {latitude = "41.924218", longitude = "-87.655146"}
 
 # Directions for visitors to locate you.
 directions = ""
