@@ -5,7 +5,8 @@ dateend="2021-02-23T16:00:00"
 authors = ["Phil Yates, panelist"] 
 location = "StatPREP Webinar" 
 event="StatPREP Webinar" 
-event_url="" abstract = "" 
+event_url="" 
+abstract = "" 
 abstract_short = "" 
 image_preview = "" 
 featured = false 
@@ -21,7 +22,8 @@ url_video = "https://maa.zoom.us/rec/share/pu2_svCXs3cDGr02-08_nxzily8l2YMTUe8Dl
 url_poster = "" 
 url_source = "" 
 math = true 
-highlight = true [header] 
+highlight = true 
+[header] 
 image = "" 
 caption = "" 
 +++
