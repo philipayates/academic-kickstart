@@ -27,20 +27,20 @@ weight = 30
 
 _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx)_
 
-**Winter Quarter 2022**
-+ ENV 260: Environmental Data Analysis
-+ MAT 348: Applied Statistical Methods
-+ MAT 442: Applied Statistics II
+**Autumn Quarter 2022**
++ MAT 350/427: Bayesian Statistics
++ MAT 441: Applied Statistics I
 
-**Past Quarters: Autumn Quarter 2017 to Autumn Quarter 2021**
+**Past Quarters: Autumn Quarter 2017 to Sprin Quarter 2022**
++ ENV 260: Environmental Data Analysis
 + HON 180: Data Analysis and Statistics
 + MAT 137: Business Statistics
 + MAT 328/528: Design of Experiments
 + MAT 341/448: Statistical Methods Using SAS
-+ MAT 350/427: Bayesian Statistics
++ MAT 348: Applied Statistical Methods
 + MAT 353: Probability & Statistics III
 + MAT 356/456: Applied Regression Analysis
-+ MAT 441: Applied Statistics I
++ MAT 442: Applied Statistics II
 + MAT 443: Applied Statistics III
 
 <h2>Saint Michael's College</h2>
