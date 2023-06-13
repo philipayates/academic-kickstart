@@ -1,6 +1,7 @@
 +++ 
 title = "The Metropolitan Chicago Data Science Corps (MCDC): Learning from Data to Support Communities" 
-date = "2023-06-03T11:00:00" dateend="2023-06-03T12:00:00" 
+date = "2023-06-03T11:00:00" 
+dateend="2023-06-03T12:00:00" 
 authors = ["Philip A. Yates"] 
 location = "State College, PA" 
 event="United States Conference on Teaching Statistics" 
