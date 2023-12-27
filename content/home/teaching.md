@@ -41,7 +41,6 @@ _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathemat
 + MAT 353: Probability & Statistics III
 + MAT 356/456: Applied Regression Analysis
 + MAT 441: Applied Statistics I
-+ MAT 442: Applied Statistics II
 + MAT 443: Applied Statistics III
 
 <h2>Saint Michael's College</h2>
