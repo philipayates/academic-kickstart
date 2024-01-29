@@ -9,7 +9,9 @@ event_url="https://blogs.depaul.edu/innovation-day-2024/agenda/"
 abstract = "" 
 abstract_short = "" 
 image_preview = "" 
-featured = false projects = [] tags = [] 
+featured = false 
+projects = [] 
+tags = [] 
 url_pdf = "" 
 url_preprint = "" 
 url_code = "" 
