@@ -22,7 +22,8 @@ url_video = ""
 url_poster = "https://github.com/philipayates/academic-kickstart/blob/master/static/files/posters/Denver_HDR_MCDC_Poster_VdLee.pdf" 
 url_source = "" 
 math = true 
-highlight = true [header] 
+highlight = true 
+[header] 
 image = "" 
 caption = "" 
 +++
