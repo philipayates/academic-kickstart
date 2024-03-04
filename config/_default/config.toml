@@ -108,6 +108,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [params]
   customCSS = "assets/scss/custom.scss"
-
-[params]
-  adobeFontsKitId = "owl3efp"
