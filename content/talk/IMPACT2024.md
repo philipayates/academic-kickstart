@@ -1,6 +1,7 @@
 +++ 
 title = "Information Motivating Public Activism (IMPACT) Professional Panel" 
-date = "2024-03-20T20:30:00" dateend="2024-03-20T21:30:00" 
+date = "2024-03-20T20:30:00" 
+dateend="2024-03-20T21:30:00" 
 authors = ["Philip Yates"] 
 location = "Illinois Mathematics and Science Academy" 
 event="Leadership, Education and Development (LEAD) Program" 
