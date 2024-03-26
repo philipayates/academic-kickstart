@@ -31,7 +31,7 @@ _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathemat
 + HON 180: Data Analysis and Statistics
 + MAT 443: Applied Statistics III
   
-**Past Quarters: Autumn Quarter 2017 to Winter Quarter 2023**
+**Past Quarters: Autumn Quarter 2017 to Winter Quarter 2024**
 + ENV 260: Environmental Data Analysis
 + MAT 137: Business Statistics
 + MAT 328/528: Design of Experiments
