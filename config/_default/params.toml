@@ -104,7 +104,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 3:30 to 5:30 PM, Tuesday & Thursday 12:00 to 1:00 PM"]
+office_hours = ["Monday 3:30 to 5:30 PM, Tuesday & Thursday 10:00 to 11:00 AM"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -112,7 +112,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/philipayates"},
+  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/philipayates"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:philipayates"},
  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "philipayates"
+twitter = ""
 
 ############################
 ## Regional Settings
