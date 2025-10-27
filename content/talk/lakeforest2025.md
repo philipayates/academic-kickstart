@@ -1,6 +1,7 @@
 +++ 
 title = "Let's Go Streaking! Probability & Hitting Streaks in Baseball" 
-date = "2025-10-28T17:00:00" dateend="2025-10-28T18:00:00" 
+date = "2025-10-28T17:00:00" 
+dateend="2025-10-28T18:00:00" 
 authors = ["Phil Yates"] 
 location = "Lake Forest College" 
 event="Mathematics and Computer Science Colloquium" 
