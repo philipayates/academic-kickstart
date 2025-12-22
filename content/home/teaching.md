@@ -27,19 +27,20 @@ weight = 30
 
 _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx)_
 
-**Autumn Quarter 2025**
-+ MAT 350/427: Bayesian Statistics
-+ MAT 441: Applied Statistics I
+**Winter Quarter 2026**
++ MAT 137: Business Statistics
   
-**Past Quarters: Autumn Quarter 2017 to Spring Quarter 2025**
+**Past Quarters: Autumn Quarter 2017 to Autumn Quarter 2025**
 + ENV 260: Environmental Data Analysis
 + HON 180: Data Analysis and Statistics
 + MAT 137: Business Statistics
 + MAT 328/528: Design of Experiments
 + MAT 341/448: Statistical Methods Using SAS
 + MAT 348: Applied Statistical Methods
++ MAT 350/427: Bayesian Statistics
 + MAT 353: Probability & Statistics III
 + MAT 356/456: Applied Regression Analysis
++ MAT 441: Applied Statistics I
 + MAT 442: Applied Statistics II
 + MAT 443: Applied Statistics III
 
