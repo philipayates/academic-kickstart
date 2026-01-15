@@ -46,7 +46,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:PYATES@depaul.edu".
 - icon: bluesky
   icon_pack: fab
-  link: https://philyates.bsky.social
+  link: https://bsky.app/profile/philyates.bsky.social
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/phil-yates-8815992/
