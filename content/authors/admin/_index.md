@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:PYATES@depaul.edu".
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/philipayates
+  link: https://philyates.bsky.social
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/phil-yates-8815992/
