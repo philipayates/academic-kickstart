@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Phil Yates is an associate professor of statistics at DePaul University in Chicago, Illinois. His research interests include statistical applications in environmental sciences, hydrology, sports, political science, and statistics education.
+Phil Yates is an associate professor of statistics at DePaul University in Chicago, Illinois. His research interests include statistical applications in environmental sciences, hydrology, sports, biostatistics, nursing, public health, political science, and statistics education.
