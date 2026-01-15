@@ -44,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:PYATES@depaul.edu".
-- icon: bluesky
-  icon_pack: fab
-  link: https://bsky.app/profile/philyates.bsky.social
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/phil-yates-8815992/
@@ -59,6 +56,13 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Philip_Yates
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/philyates.bsky.social
+- icon: threads
+  icon_pack: fab
+  link: https://www.threads.com/@philipayates
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
