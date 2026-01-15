@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: Associate Professor, Statistics
+role: Director, Statistcal Consulting Center
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +19,7 @@ organizations:
   url: "https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests mostly involve statistical applications, specifically applications in environmental sciences, hydrology, sports, political science, and statistics education.
+bio: My research interests mostly involve statistical applications, specifically applications in environmental sciences, hydrology, sports, biostatistics, nursing, public health, political science, and statistics education.
 interests:
 - Applied Statistics
 - Statistical Education
