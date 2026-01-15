@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor, Statistics
-role: Director, Statistcal Consulting Center
+role: Associate Professor, Statistics <br> Director, Statistcal Consulting Center
 
 # Organizations/Affiliations
 organizations:
