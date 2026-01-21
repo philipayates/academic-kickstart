@@ -18,7 +18,7 @@ organizations:
   url: "https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests mostly involve statistical applications, specifically applications in environmental sciences, hydrology, sports, biostatistics, nursing, public health, political science, and statistics education.
+bio: My research interests mostly involve statistical applications, specifically applications in environmental sciences, hydrology, sports, biostatistics, political science, and statistics education.
 interests:
 - Applied Statistics
 - Statistical Education
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Phil Yates is an associate professor of statistics at DePaul University in Chicago, Illinois. His research interests include statistical applications in environmental sciences, hydrology, sports, biostatistics, nursing, public health, political science, and statistics education.
+Phil Yates is an associate professor of statistics at DePaul University in Chicago, Illinois. His research interests include statistical applications in environmental sciences, hydrology, sports, biostatistics, political science, and statistics education.
