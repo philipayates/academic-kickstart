@@ -27,10 +27,11 @@ weight = 30
 
 _[Department of Mathematical Sciences](https://csh.depaul.edu/academics/mathematical-sciences/Pages/default.aspx)_
 
-**Winter Quarter 2026**
+**Autumn Quarter 2026**
 + MAT 137: Business Statistics
++ MAT 350/427: Bayesian Statistics
   
-**Past Quarters: Autumn Quarter 2017 to Autumn Quarter 2025**
+**Past Quarters: Autumn Quarter 2017 to Spring Quarter 2026**
 + ENV 260: Environmental Data Analysis
 + HON 180: Data Analysis and Statistics
 + MAT 137: Business Statistics
