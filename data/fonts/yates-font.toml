@@ -2,10 +2,10 @@
 name = "YatesFont"
 
 # Optional Google font URL
-google_fonts = "Inconsolata"
+google_fonts = "JetBrains Mono:400,400i,700|Rethink Sans:400,400i,700"
 
 # Font families
-heading_font = "tenso"
-body_font = "urw-din"
-nav_font = "tenso"
-mono_font = "Inconsolata"
+heading_font = "Rethink Sans
+body_font = "Rethink Sans"
+nav_font = "Rethink Sans"
+mono_font = "JetBrains Mono"
