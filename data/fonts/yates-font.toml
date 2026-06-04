@@ -1,5 +1,5 @@
 # Font style metadata
-#name = "YatesFont"
+name = "YatesFont"
 
 # Optional Google font URL
 #google_fonts = "JetBrains Mono:400,400i,700|Rethink Sans:400,400i,700"
