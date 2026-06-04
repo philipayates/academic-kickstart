@@ -10,4 +10,4 @@ name = "YatesFont"
 #nav_font = "Rethink Sans"
 #mono_font = "JetBrains Mono"
 
-custom_css: ["custom.css"]
+custom_css = "custom.css"
