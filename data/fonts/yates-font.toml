@@ -1,11 +1,13 @@
 # Font style metadata
-name = "YatesFont"
+#name = "YatesFont"
 
 # Optional Google font URL
-google_fonts = "JetBrains Mono:400,400i,700|Rethink Sans:400,400i,700"
+#google_fonts = "JetBrains Mono:400,400i,700|Rethink Sans:400,400i,700"
 
 # Font families
-heading_font = "Rethink Sans
-body_font = "Rethink Sans"
-nav_font = "Rethink Sans"
-mono_font = "JetBrains Mono"
+#heading_font = "Rethink Sans
+#body_font = "Rethink Sans"
+#nav_font = "Rethink Sans"
+#mono_font = "JetBrains Mono"
+
+custom_css: ["custom.css"]
